@@ -1,0 +1,54 @@
+/**
+ * @name Nano
+ * @author なるさん#0001
+ * @version .1.30
+ * @authorLink https://twitter.com/Nano_sannn
+ * @description Created by なるさん#0001
+ * @source https://github.com/DiscordStyles/RadialStatus
+ * @website https://twitter.com/Nano_sannn
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Pangolin');
+:root {
+    --themeColor1: #700DDCFF;
+    --themeColor2: #BA31E5FF;
+    --customFont: 'Pangolin';
+    --homeImage: url('https://i.pinimg.com/736x/04/0b/b3/040bb392a583ffcdd76d818c2d263391.jpg');
+    --homeImageSize: cover;
+    --backgroundColor: #000329FF;
+    --backgroundImage: url('https://media.discordapp.net/attachments/962671676217237574/1002217395479380048/2573523563.jpg');
+    --backgroundPosition: center;
+    --backgroundSize: cover;
+    --backgroundRepeat: no-repeat;
+    --backgroundBlur: 0px;
+    --backgroundOpacity: 0.65;
+    --HSL-server-icon-size: 40px;
+    --HSL-server-spacing: 10px;
+}
+
+.menu-1QACrS {
+    background-image: url('https://i.pinimg.com/564x/15/ce/84/15ce841a70a406c817f0c1affe320e04.jpg');
+    box-shadow: none;
+}
+.theme-dark .root-g14mjS {
+    background-color: transparent !important;
+    box-shadow: none;
+    background-image: url('https://media.discordapp.net/attachments/962671676217237574/1002412075278155786/25323875.jpg');
+}
+
+.userPopout-2j1gM4 {
+    background-color: transparent !important;
+    border-radius: 5px;
+    box-shadow: none;
+    border: 2px solid #912;
+    background-image: url('https://i.pinimg.com/736x/ea/3b/f9/ea3bf9eb97263a45a643547bbd08277a.jpg');
+}
+
+.body-1Ukv50, .topSection-13QKHs {
+    background-color: transparent;
+}
+
+.bodyInnerWrapper-2bQs1k {
+    background-color: transparent;
+}
